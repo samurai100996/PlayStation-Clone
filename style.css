@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.sonybar{
+    background-color: #000000;
+    color: white;
+    text-align: right;
+    font-family:'SST';
+    font-weight: 800;
+    height: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+.header{
+    background-color: white;
+    display: flex;
+    height: 45px;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        /* Full viewport height */
+        background-color: #f4f4f4;
+}
+.fa-brands fa-playstation{
+    
+}
